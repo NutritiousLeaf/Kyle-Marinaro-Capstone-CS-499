@@ -1,1 +1,18 @@
-# Kyle-Marinaro-Capstone-CS-499
+Kyle Marinaro
+Professional Self Assessment
+
+Completion of the Bachelor of Science in Computer Science has established a technical foundation in software development, database management, algorithmic design, and security principles. The development of this ePortfolio served as a reflective process, allowing for the refinement of previous artifacts to demonstrate the application of theoretical knowledge to practical computing challenges. As this program concludes, these accomplishments serve as a transition toward a Master of Science in Cybersecurity, marking a readiness for advanced study and professional practice.
+
+A significant outcome of the curriculum was the development of technical communication skills. Through various reports, documentation tasks, and presentations, it became necessary to convey complex technical decisions to both specialized and non-technical stakeholders. This ability to tailor communication is particularly relevant to cybersecurity, where professionals must articulate technical risks and mitigation strategies to organizational decision-makers.
+
+The program also emphasized stakeholder engagement and the software development lifecycle. Courses in software development and full-stack systems required the translation of business requirements into technical specifications. These experiences provided an understanding of how technical solutions must align with organizational objectives and how computer science professionals contribute to broader decision-making frameworks.
+
+Proficiency in algorithms and data structures transitioned from a theoretical understanding to a focus on efficiency and scalability. In the Travlr Getaways artifact, the implementation of searching, filtering, and pagination demonstrated how algorithmic selection directly influences application performance and user experience. This process clarified the relationship between data structure optimization and long-term software maintainability.
+
+Software engineering capabilities were expanded through coursework in object-oriented programming, systems design, and rigorous testing. For the software engineering enhancement, improvements were made to authentication mechanisms, route protection, and error handling within the Travlr Getaways application. This task required an evaluation of legacy code to identify vulnerabilities and implement more reliable, maintainable solutions.
+
+Database management skills were developed through work with relational systems and MongoDB, focusing on data modeling and application integration. Enhancements made to the ePortfolio artifacts included the implementation of schema validation, indexing strategies, and record auditing. These modifications illustrated how database design decisions, such as enforcing data integrity at the schema level, are critical to ensuring both data quality and system performance.
+
+Security emerged as the primary area of interest and the focus of future graduate study. The program provided exposure to secure coding practices, data protection, and risk mitigation. Both the software engineering and database enhancements integrated security-oriented improvements, such as strengthened authentication controls and validation logic. These tasks emphasized the necessity of a proactive security mindset in anticipating and mitigating system vulnerabilities.
+
+The artifacts within this ePortfolio document a progression in technical proficiency. The code review process demonstrates an ability to critically analyze software for potential improvements. The software engineering and database enhancements show a capacity for improving system reliability and data integrity, while the algorithms component reflects an understanding of computational efficiency. Collectively, these artifacts provide evidence of the technical competencies required for continued specialization in cybersecurity operations and secure system design.
