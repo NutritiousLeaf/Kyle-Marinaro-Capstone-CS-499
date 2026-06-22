@@ -1,18 +1,55 @@
-Kyle Marinaro
-Professional Self Assessment
+# Kyle Marinaro – Computer Science ePortfolio
 
-Completion of the Bachelor of Science in Computer Science has established a technical foundation in software development, database management, algorithmic design, and security principles. The development of this ePortfolio served as a reflective process, allowing for the refinement of previous artifacts to demonstrate the application of theoretical knowledge to practical computing challenges. As this program concludes, these accomplishments serve as a transition toward a Master of Science in Cybersecurity, marking a readiness for advanced study and professional practice.
+## Professional Self-Assessment
 
-A significant outcome of the curriculum was the development of technical communication skills. Through various reports, documentation tasks, and presentations, it became necessary to convey complex technical decisions to both specialized and non-technical stakeholders. This ability to tailor communication is particularly relevant to cybersecurity, where professionals must articulate technical risks and mitigation strategies to organizational decision-makers.
+This ePortfolio demonstrates the skills, knowledge, and growth I have developed throughout the Bachelor of Science in Computer Science program at Southern New Hampshire University. The artifacts included showcase my abilities in software engineering, algorithms and data structures, database design, security, and full-stack application development. As I complete this degree, I plan to continue my education by pursuing a Master's degree in Cybersecurity.
 
-The program also emphasized stakeholder engagement and the software development lifecycle. Courses in software development and full-stack systems required the translation of business requirements into technical specifications. These experiences provided an understanding of how technical solutions must align with organizational objectives and how computer science professionals contribute to broader decision-making frameworks.
+## Portfolio Contents
 
-Proficiency in algorithms and data structures transitioned from a theoretical understanding to a focus on efficiency and scalability. In the Travlr Getaways artifact, the implementation of searching, filtering, and pagination demonstrated how algorithmic selection directly influences application performance and user experience. This process clarified the relationship between data structure optimization and long-term software maintainability.
+### Professional Self-Assessment
 
-Software engineering capabilities were expanded through coursework in object-oriented programming, systems design, and rigorous testing. For the software engineering enhancement, improvements were made to authentication mechanisms, route protection, and error handling within the Travlr Getaways application. This task required an evaluation of legacy code to identify vulnerabilities and implement more reliable, maintainable solutions.
+* Professional-Self-Assessment.docx
 
-Database management skills were developed through work with relational systems and MongoDB, focusing on data modeling and application integration. Enhancements made to the ePortfolio artifacts included the implementation of schema validation, indexing strategies, and record auditing. These modifications illustrated how database design decisions, such as enforcing data integrity at the schema level, are critical to ensuring both data quality and system performance.
+### Code Review Video
 
-Security emerged as the primary area of interest and the focus of future graduate study. The program provided exposure to secure coding practices, data protection, and risk mitigation. Both the software engineering and database enhancements integrated security-oriented improvements, such as strengthened authentication controls and validation logic. These tasks emphasized the necessity of a proactive security mindset in anticipating and mitigating system vulnerabilities.
+* Code-Review-Video-Link.txt
 
-The artifacts within this ePortfolio document a progression in technical proficiency. The code review process demonstrates an ability to critically analyze software for potential improvements. The software engineering and database enhancements show a capacity for improving system reliability and data integrity, while the algorithms component reflects an understanding of computational efficiency. Collectively, these artifacts provide evidence of the technical competencies required for continued specialization in cybersecurity operations and secure system design.
+### Enhancement Plan
+
+* CS499-Enhancement-Plan.docx
+
+### Original Artifact
+
+* Travlr-Getaways-Original.zip
+
+### Enhanced Artifact
+
+* Travlr-Getaways-Enhanced.zip
+
+### Software Engineering Enhancement
+
+* Software-Engineering-Narrative.docx
+
+### Algorithms and Data Structures Enhancement
+
+* Algorithms-and-Data-Structures-Narrative.docx
+
+### Database Enhancement
+
+* Database-Narrative.docx
+
+## Skills Demonstrated
+
+* Full-Stack Web Development
+* Angular Development
+* Node.js and Express
+* REST API Design
+* MongoDB Database Design
+* Authentication and Security
+* Search, Filtering, Sorting, and Pagination Algorithms
+* Database Validation and Optimization
+* Software Engineering Best Practices
+
+## Career Goals
+
+My long-term goal is to build upon my Computer Science degree by pursuing a Master's degree in Cybersecurity. The artifacts within this portfolio demonstrate the technical foundation that will support my continued growth within software development, secure application design, and cybersecurity.
