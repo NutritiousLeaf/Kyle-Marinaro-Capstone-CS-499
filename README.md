@@ -16,7 +16,7 @@ This ePortfolio demonstrates the skills, knowledge, and growth I have developed 
 
 ### Enhancement Plan
 
-* CS499-Enhancement-Plan.docx
+* Enhancement-Plan.docx
 
 ### Original Artifact
 
@@ -32,7 +32,7 @@ This ePortfolio demonstrates the skills, knowledge, and growth I have developed 
 
 ### Algorithms and Data Structures Enhancement
 
-* Algorithms-and-Data-Structures-Narrative.docx
+* Algorithms-Narrative.docx
 
 ### Database Enhancement
 
